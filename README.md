@@ -1,3 +1,3 @@
 # VULN > 
-* ## [SSTI(Server-Side Teplate Injection)](/ssti.md)
-* ## [BAC(Broken Access Control)](/bac.md)
+* ## [SSTI(Server-Side Teplate Injection)](VULN/ssti.md)
+* ## [BAC(Broken Access Control)](VULN/bac.md)
